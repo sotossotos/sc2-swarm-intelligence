@@ -1,0 +1,65 @@
+commit 1eb8b9e0dc2a6f5b2a528efd13824450f4bea7b2
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Mon Sep 9 14:59:14 2019 +0100
+
+    Including all the information needed and proof videos of the achieved behaviour
+
+commit a2790abd8abfa8813cc75aad42902efb5d498a30
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Wed Aug 7 16:42:11 2019 +0100
+
+    7 Marine running in formation works
+
+commit f6d03a76129c1c0d30d512a164e20d364fc8f04d
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Tue Jul 23 16:20:05 2019 +0100
+
+    change closest to radius based trying to stabalise
+
+commit 51d29de49f2392a1326440fa52c65fa528bc9fb4
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Mon Jul 22 01:53:08 2019 +0100
+
+    Added social and individual parameters, fixed addition of y component was wrongly doing x started using coordinates class
+
+commit 0e84dc6ace6456481437885b6bbcfad3d643331f
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Tue Jul 16 16:05:43 2019 +0100
+
+    Trying to add focal,refactoring code
+
+commit 10cc016a859a27fa963847f3b94230767778f086
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Mon Jul 15 22:27:39 2019 +0100
+
+    Trying to implement pseudocode given
+
+commit 2549695de7b1dfae6e0406f065c3e5150585e86c
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Wed Jul 10 12:37:02 2019 +0100
+
+    Adding multiple vectors and tested it
+
+commit faa48b8b164af63718624e30c3601ca6c323798d
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Wed Jul 10 12:12:06 2019 +0100
+
+    Adding calculations of finding the closest marines of a marine
+
+commit 9aa25220f8c70a5c3cd994cbfefdace3a407c47f
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Tue Jul 9 19:54:26 2019 +0100
+
+    Change code refactoring math utils to separate class and create fundemental classes
+
+commit 22432c45e6e5efe1a95b4c57574fe8d56481cb5b
+Author: sxl1028 <sxl1028@student.bham.ac.uk>
+Date:   Mon Jul 8 11:49:59 2019 +0100
+
+    Finally creating a git to track progress of this project
+
+commit 4cde6b7bb1b9f0f0dfdc7d780407d6601f2bcea5
+Author: sxl1028 <sxl1028@cs.bham.ac.uk>
+Date:   Mon Jul 8 11:21:29 2019 +0100
+
+    Initial commit
